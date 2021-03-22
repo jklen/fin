@@ -104,4 +104,5 @@ search = investpy.search_quotes('SPY4')
 df_spy4 = search[3].retrieve_historical_data(from_date=from_date, to_date=to_date)
 
 search = investpy.search_quotes('SXR8') 
-df_sxr8 = search[0].retrieve_historical_data(from_date=from_date, to_date=to_date)
+df_sxr8 = search[0].retrieve_historical_data(from_date=from_date, to_date=to_date)
+
