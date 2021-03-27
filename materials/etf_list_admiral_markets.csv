@@ -1,194 +1,186 @@
-Nr.,INVESTsymbol,Description,Instrument Subtype,Listedcurrency,"Min.contract
-size",Contractstep,"MaximumContract
-Size",Min.Margin,"Trading session, EET",,yahoo ticker,yahoo currency
-1,ACWI,LYXOR MSCI ALL COUNTRY WORLD UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,ACWI,USD
-2,AEEM,Amundi MSCI Emerging Markets UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,AEEM.PA,EUR
-3,AUT,Lyxor STOXX Europe 600 Automobiles & Parts UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-4,BNK,Lyxor STOXX European 600 Banks UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-5,BNKE,LYXOR EURO STOXX BANKS DR UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,BNKE.PA,EUR
-6,BRE,LYXOR STOXX EUROPE 600 BASIC RESOURCES UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-7,BSXP,Lyxor EURO STOXX 50 Daily Short UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-8,BX4,Lyxor CAC 40 Daily Double Short UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-9,BXX,LYXOR EURO STOXX 50 DAILY DOUBLE SHORT UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-10,C50,Amundi Euro Stoxx 50 UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-11,C5E,Amundi Stoxx Europe 50 UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-12,C5S2,Amundi Short Euro Stoxx 50 Daily UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-13,CAC,Lyxor CAC 40 DR UCITS ETF - Dist,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-14,CEUG,Amundi MSCI Europe UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-15,CMU,Amundi MSCI EMU UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-16,CS1,Amundi MSCI Spain UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-17,CST,Lyxor UCITS ETF STOXX Europe 600 Construction & Materials,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-18,CU1,Amundi MSCI Uk UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-19,DJE,Lyxor Dow Jones Industrial Average UCITS ETF - Dist,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-20,DSD,LYXOR DAILY SHORTDAX X2 UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-21,ERO,SPDR MSCI Europe UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-22,FIN,Lyxor STOXX Europe 600 Financial Services UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-23,FOO,LYXOR STOXX EUROPE 600 FOOD BEVERAGE UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-24,GRE,Lyxor MSCI Greece UCITS ETF - Dist,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-25,GWT,Lyxor MSCI EMU Growth DR UCITS ETF - Dist,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-26,HLTP,LYXOR STOXX EUROPE 600 HEALTHCARE UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-27,HSI,Lyxor Hong Kong HSI UCITS ETF - Dist,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-28,IND,Lyxor UCITS ETF STOXX Europe 600 Industrial Goods & Services ET,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-29,INSP,Lyxor UCITS ETF STOXX Europe 600 Insurance ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-30,JPN,Lyxor Japan TOPIX DR UCITS ETF EUR - Dist,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-31,JPNH,Lyxor Japan TOPIX DR Daily Hedged to EUR UCITS ETF - Dist,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-32,LVC,LYXOR DAILY LEVERAGE CAC 40 UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-33,LVE,Lyxor EURO STOXX 50 Daily Leverage UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-34,MAAP,"Lyxor UCITS ETF EuroMTS Highest Rated Macro-Weighted Govt
-Bond",France (Euronext) ETF,EUR,1,1,10000,100%,"10:01 - 18:30 Mon -
-Fri",,,
-35,MDA,LYXOR STOXX EUROPE 600 MEDIA UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-36,MFE,LYXOR MSCI EMU DR UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-37,MMS.FR,Lyxor MSCI EMU Small Cap DR UCITS ETF - Dist,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-38,MTX1.FR,Lyxor EuroMTS All-Maturity Investment Grade DR UCITS ETF - Acc,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-39,MWO,Lyxor FTSE EPRA/NAREIT Global Developed UCITS ETF - Dist,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-40,NRJ,Lyxor New Energy UCITS ETF - Dist,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-41,OIL,LYXOR UCITS ETF STOXX EUROPE 600 OIL &GAS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-42,PAXJ,Lyxor MSCI Pacific Ex Japan UCITS ETF - Dist,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-43,PHGP,"Lyxor UCITS ETF STOXX Europe 600 Personal & Household Goods
-ETF",France (Euronext) ETF,EUR,1,1,10000,100%,"10:01 - 18:30 Mon -
-Fri",,,
-44,PVXT,Lyxor Privex UCITS ETF - Dist,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-45,RIO2,Lyxor Brazil Ibovespa UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-46,RTA,LYXOR STOXX EUROPE 600 RETAIL UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-47,SELT,Lyxor STOXX Europe Select Dividend 30 UCITS ETF - Dist,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-48,SGQI,Lyxor SG Global Quality Income NTR UCITS ETF - Dist,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-49,SHC,LYXOR DAILY SHORT CAC 40 UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-50,STZP,SPDR MSCI Europe Financials UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-51,TNO,LYXOR STOXX EUROPE 600 TECHNOLOGY UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-52,TPXH,Amundi Japan Topix Daily Hedged EUR UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-53,TRVP,LYXOR STOXX EUROPE 600 TRAVEL & LEISURE UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-54,USA,LYXOR MSCI USA UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-55,WATP,LYXOR WORLD WATER UCITS ETF,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-56,WLD,Lyxor MSCI World UCITS ETF - Dist,France (Euronext) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-57,DBPD,Xtrackers ShortDAX x2 Daily UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-58,DBPG,Xtrackers S&P 500 2x Leveraged Daily UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-59,DBX1,Xtrackers MSCI Emerging Markets Index UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-60,DBXA,Xtrackers MSCI EUROPE INDEX UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-61,DBXD,Xtrackers DAX UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-62,DBXX,Xtrackers FTSE 100 UCITS ETF DR Income ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-63,DX2G,Xtrackers CAC 40 UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-64,DX2J,Xtrackers MSCI Europe Small Cap Index UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-65,DX2Z,Xtrackers S&P Select Frontier UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-66,DXET,Xtrackers EURO STOXX 50 UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-67,DXS3,Xtrackers S&P 500 Inverse Daily UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-68,DXS7,Xtrackers FTSE Vietnam UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-69,DXSB,Xtrackers STOXX GLOBAL SELECT DIVIDEND 100 UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-70,DXSC,Xtrackers - STOXX Europe 600 Basic Resources UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-71,DXSH,Xtrackers - DJ STOXX Europe 600 Technology UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-72,DXSK,Xtrackers Stoxx Europe 600 Food & Beverage UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-73,DXSN,Xtrackers ShortDAX Daily UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-74,DXSP,Xtrackers - EURO STOXX 50 Short Daily UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-75,EL4A,Deka DAX UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-76,EL4B,Deka EURO STOXX 50 UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-77,EUN1,iShares STOXX Europe 50 UCITS EUR Dist ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-78,EXH1,iShares STOXX Europe 600 Oil & Gas UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-79,EXH5,iShares STOXX Europe 600 Insurance UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-80,EXH9,iShares STOXX Europe 600 Utilities UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-81,EXS1,iShares Core DAX UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-82,EXS3,iShares MDAX UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-83,EXSA,iShares STOXX Europe 600 UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-84,EXSH,iShares STOXX Europe Select Dividend 30 UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-85,EXV1,iShares STOXX Europe 600 Banks UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-86,EXV2,iShares STOXX Europe 600 Telecommunications UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-87,EXV5,iShares STOXX Europe 600 Automobiles & Parts UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-88,EXV6,iShares STOXX Europe 600 Basic Resources UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-89,EXV8,iShares STOXX Europe 600 Construction & Materials UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-90,EXW1,iShares EURO STOXX 50 UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-91,EXX1,iShares EURO STOXX Banks 30-15 UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-92,EXXT,iShares NASDAQ-100 UCITS ETF - Dist,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-93,ISPA,iShares STOXX Global Select Dividend 100 UCITS ETF - Dist,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-94,LYPS,Lyxor S&P 500 UCITS ETF - Dist,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-95,LYPU,Lyxor Australia S&P/ASX 200 UCITS ETF - Dist,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-96,LYY7,Lyxor DAX (DR) UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-97,LYY8,Lyxor Daily LevDAX UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-98,SC0D,Invesco EURO STOXX 50 UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-99,SC0E,Invesco MSCI Europe UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-100,UEFD,UBS ETF MSCI EMU Small Cap UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-101,UIM3,UBS ETF FTSE 100 UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-102,UIM4,UBS ETF MSCI EMU UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-103,XD5E,Xtrackers MSCI EMU INDEX UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-104,XDDX,Xtrackers DAX UCITS ETF DR - Income ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-105,XDUK,Xtrackers FTSE 100 UCITS ETF,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-106,XDWD,Xtrackers MSCI World UCITS ETF - Acc,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-107,XDWH,Xtrackers MSCI World Health Care UCITS ETF - Acc,Germany (Xetra) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-108,AUCO,L&G Gold Mining UCITS ETF,Netherlands (Euronext)ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-109,IDVY,iShares Euro Dividend UCITS EUR Dist ETF,Netherlands (Euronext)ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-110,IJPA,iShares Core MSCI Japan IMI UCITS USD Acc ETF,Netherlands (Euronext)ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-111,IMEU,iShares MSCI Europe UCITS EUR Dist ETF,Netherlands (Euronext)ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-112,IUSP,iShares US Property Yield UCITS USD Dist ETF,Netherlands (Euronext)ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-113,VERX,Vanguard FTSE Developed Europe ex UK UCITS ETF,Netherlands (Euronext)ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-114,VEUR,Vanguard FTSE Developed Europe UCITS ETF,Netherlands (Euronext)ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-115,2INVE,LYXOR IBEX 35 DOBLE INVERSO DIARIO UCITS ETF,Spain (BME) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-116,IBEXA,LYXOR IBEX 35 DOBLE APALANCADO DIARIO UCITS ETF,Spain (BME) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-117,LYXIB,LYXOR IBEX35 DR UCITS ETF,Spain (BME) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-118,DNRG,iShares Global Clean Energy UCITS ETF - Dist,Switzerland (SWX) ETF,USD,1,1,10000,100%,10:01 - 18:20 Mon -Fri,,,
-119,EUDV,SPDR S&P Euro Dividend Aristocrats UCITS ETF,Switzerland (SWX) ETF,CHF,1,1,10000,100%,10:01 - 18:20 Mon -Fri,,,
-120,EXFN,iShares EURO STOXX 50 ex-Financials UCITS EUR Acc ETF,Switzerland (SWX) ETF,CHF,1,1,10000,100%,10:01 - 18:20 Mon -Fri,,,
-121,EXSB,iShares DivDAX UCITS ETF,Switzerland (SWX) ETF,CHF,1,1,10000,100%,10:01 - 18:20 Mon -Fri,,,
-122,GBRE,SPDR Dow Jones Global Real Estate UCITS ETF - Dist,Switzerland (SWX) ETF,CHF,1,1,10000,100%,10:01 - 18:20 Mon -Fri,,,
-123,IAUP,iShares Gold Producers UCITS USD Acc ETF,Switzerland (SWX) ETF,CHF,1,1,10000,100%,10:01 - 18:20 Mon -Fri,,,
-124,IEML,iShares JP Morgan EM Local Government Bond UCITS ETF,Switzerland (SWX) ETF,CHF,1,1,10000,100%,10:01 - 18:20 Mon -Fri,,,
-125,IMEA,iShares MSCI Europe UCITS EUR Acc ETF,Switzerland (SWX) ETF,CHF,1,1,10000,100%,10:01 - 18:20 Mon -Fri,,,
-126,ISPY,L&G Cyber Security UCITS ETF - Acc,Switzerland (SWX) ETF,CHF,1,1,10000,100%,10:01 - 18:20 Mon -Fri,,,
-127,ITWN,iShares MSCI Taiwan UCITS USD Dist ETF,Switzerland (SWX) ETF,USD,1,1,10000,100%,10:01 - 18:20 Mon -Fri,,,
-128,MDAXEX,iShares MDAX UCITS ETF,Switzerland (SWX) ETF,CHF,1,1,10000,100%,10:01 - 18:20 Mon -Fri,,,
-129,MVEU,iShares Edge MSCI Europe Minimum Volatility UCITS EUR Acc ETF,Switzerland (SWX) ETF,CHF,1,1,10000,100%,10:01 - 18:20 Mon -Fri,,,
-130,SJNK,SPDR Barclays 0-5 Year US High Yield Bond UCITS ETF,Switzerland (SWX) ETF,CHF,1,1,10000,100%,10:01 - 18:20 Mon -Fri,,,
-131,SPLV,iShares Edge S&P 500 Minimum Volatility UCITS USD Acc ETF,Switzerland (SWX) ETF,CHF,1,1,10000,100%,10:01 - 18:20 Mon -Fri,,,
-132,UKEUBH,UBS ETF - MSCI United Kingdom hedged to EUR UCITS ETF,Switzerland (SWX) ETF,EUR,1,1,10000,100%,10:01 - 18:20 Mon -Fri,,,
-133,XFVT,Xtrackers FTSE Vietnam UCITS ETF,Switzerland (SWX) ETF,CHF,1,1,10000,100%,10:01 - 18:20 Mon -Fri,,,
-134,XMCH,Xtrackers MSCI China TRN Index UCITS ETF,Switzerland (SWX) ETF,CHF,1,1,10000,100%,10:01 - 18:20 Mon -Fri,,,
-135,XSMI,Xtrackers Swiss Large Cap UCITS ETF,Switzerland (SWX) ETF,CHF,1,1,10000,100%,10:01 - 18:20 Mon -Fri,,,
-136,AGED,iShares Aging Population UCITS ETF - Acc,UK (LSE) ETF,USD,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-137,CPJ1,iShares Core MSCI Pacific ex-Japan UCITS ETF - Acc,UK (LSE) ETF,GBX,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-138,CSUKX,iShares FTSE 100 UCITS GBP Acc ETF,UK (LSE) ETF,GBX,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-139,DRDR,iShares Healthcare Innovation UCITS ETF - Acc,UK (LSE) ETF,GBX,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-140,EMBE,iShares J.P. Morgan USD EM Bond EUR Hedged UCITS Dist ETF,UK (LSE) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-141,EMIM,iShares Core MSCI EM IMI UCITS USD Acc ETF,UK (LSE) ETF,GBX,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-142,EUE,iShares EURO STOXX 50 UCITS EUR Dist ETF,UK (LSE) ETF,GBX,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-143,FTAL,SPDR FTSE UK All Share UCITS ETF,UK (LSE) ETF,GBP,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-144,GXLC,SPDR S&P U.S.Communication Serv.SelectSectorUCITS ETF - Acc,UK (LSE) ETF,GBP,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-145,HMWO,HSBC MSCI WORLD UCITS ETF,UK (LSE) ETF,GBX,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-146,HUKX,HSBC FTSE 100 UCITS ETF,UK (LSE) ETF,GBX,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-147,IE15,iShares EUR Corp Bond 1-5yr UCITS EUR Dist ETF,UK (LSE) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-148,IEMB,iShares J.P. Morgan USD EM Bond UCITS ETF,UK (LSE) ETF,USD,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-149,IGSG,iShares Dow Jones Global Sustainability Screened UCITS ETF - Ac,UK (LSE) ETF,GBX,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-150,IHYU,iShares USD High Yield Corp Bond UCITS ETF,UK (LSE) ETF,USD,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-151,IJPE,iShares MSCI Japan EUR Hedged UCITS Acc ETF,UK (LSE) ETF,EUR,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-152,INFR,iShares Global Infrastructure UCITS ETF - Dist,UK (LSE) ETF,GBX,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-153,IOGP,iShares Oil & Gas Exploration & Production UCITS USD Acc ETF,UK (LSE) ETF,USD,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-154,ISF,iShares Core FTSE 100 UCITS ETF,UK (LSE) ETF,GBX,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-155,IUAG,iShares US Aggregate Bond UCITS ETF,UK (LSE) ETF,USD,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-156,IUKP,iShares UK Property UCITS GBP Dist ETF,UK (LSE) ETF,GBX,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-157,IUSA,iShares S&P 500 UCITS USD Dist ETF,UK (LSE) ETF,GBX,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-158,IWDAU,iShares Core MSCI World UCITS (USD) ETF,UK (LSE) ETF,USD,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-159,IWDP,iShares Developed Markets Property Yield UCITS USD Dist ETF,UK (LSE) ETF,GBX,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-160,L100,LYXOR FTSE 100 UCITS ETF,UK (LSE) ETF,GBX,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-161,LQDA,iShares USD Corp Bond UCITS ETF - Acc,UK (LSE) ETF,USD,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-162,LQDE,iShares USD Corp Bond UCITS ETF,UK (LSE) ETF,USD,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-163,MIDDL,iShares FTSE 250 UCITS GBP Dist ETF,UK (LSE) ETF,GBX,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-164,RBOT,iShares Automation & Robotics UCITS ETF - Acc,UK (LSE) ETF,USD,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-165,SEML,iShares JP Morgan EM Local Government Bond UCITS ETF,UK (LSE) ETF,GBP,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-166,SJPA,iShares Core MSCI Japan IMI UCITS USD Acc ETF,UK (LSE) ETF,GBX,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-167,SLXX,iShares Core Corp Bond UCITS GBP Dist ETF,UK (LSE) ETF,GBP,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-168,SPXSL,Invesco S&P 500 UCITS ETF,UK (LSE) ETF,USD,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-169,SWDA,iShares Core MSCI World UCITS ETF,UK (LSE) ETF,GBX,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-170,UKDV,SPDR S&P UK Dividend Aristocrats UCITS ETF,UK (LSE) ETF,GBP,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-171,VMID,Vanguard FTSE 250 UCITS ETF,UK (LSE) ETF,GBP,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-172,VUKE,Vanguard FTSE 100 UCITS ETF,UK (LSE) ETF,GBP,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-173,VUSA,Vanguard S&P 500 UCITS ETF,UK (LSE) ETF,GBP,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-174,XDER,"Xtrackers FTSE EPRA-NAREIT Develop Europe Real Estate UCITS
-ETF",UK (LSE) ETF,GBX,1,1,10000,100%,"10:01 - 18:30 Mon -
-Fri",,,
-175,XESC,Xtrackers EURO STOXX 50 UCITS ETF,UK (LSE) ETF,GBX,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-176,XESX,Xtrackers EURO STOXX 50 UCITS ETF,UK (LSE) ETF,GBX,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-177,XMEM,Xtrackers MSCI Emerging Markets Index UCITS ETF,UK (LSE) ETF,GBX,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-178,XMWD,Xtrackers MSCI World Index UCITS ETF,UK (LSE) ETF,USD,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-179,XS2D,Xtrackers S&P 500 2x Leveraged Daily UCITS ETF,UK (LSE) ETF,USD,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-180,XSPD,Xtrackers S&P 500 Inverse Daily UCITS ETF,UK (LSE) ETF,USD,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-181,XSPU,Xtrackers S&P 500 UCITS ETF,UK (LSE) ETF,USD,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-182,XSSX,Xtrackers - EURO STOXX 50 Short Daily UCITS ETF,UK (LSE) ETF,GBX,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-183,XSX6,Xtrackers Stoxx Europe 600 UCITS ETF,UK (LSE) ETF,GBX,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-184,XUKS,Xtrackers FTSE 100 Short Daily UCITS ETF,UK (LSE) ETF,GBX,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
-185,XUKX,Xtrackers FTSE 100 UCITS DR Income ETF,UK (LSE) ETF,GBX,1,1,10000,100%,10:01 - 18:30 Mon -Fri,,,
+Nr.;INVESTsymbol;Description;Instrument Subtype;Listedcurrency;Min.contractsize;Contractstep;MaximumContractSize;Min.Margin;Trading session, EET;yahoo ticker;in yahoo fin
+1;ACWI;LYXOR MSCI ALL COUNTRY WORLD UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;ACWI.PA;
+2;AEEM;Amundi MSCI Emerging Markets UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;AEEM.PA;
+3;AUT;Lyxor STOXX Europe 600 Automobiles & Parts UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;AUT.PA;
+4;BNK;Lyxor STOXX European 600 Banks UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;BNK.PA;
+5;BNKE;LYXOR EURO STOXX BANKS DR UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;BNKE.PA;
+6;BRE;LYXOR STOXX EUROPE 600 BASIC RESOURCES UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;BRE.PA;
+7;BSXP;Lyxor EURO STOXX 50 Daily Short UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;BSX.PA;
+8;BX4;Lyxor CAC 40 Daily Double Short UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;BX4.PA;
+9;BXX;LYXOR EURO STOXX 50 DAILY DOUBLE SHORT UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;BXX.PA;
+10;C50;Amundi Euro Stoxx 50 UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;C50.PA;
+11;C5E;Amundi Stoxx Europe 50 UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;C5E.PA;
+12;C5S2;Amundi Short Euro Stoxx 50 Daily UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;C5S2.PA;n
+13;CAC;Lyxor CAC 40 DR UCITS ETF - Dist;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;CAC.PA;
+14;CEUG;Amundi MSCI Europe UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;CEUG.F;
+15;CMU;Amundi MSCI EMU UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;CMU.PA;
+16;CS1;Amundi MSCI Spain UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;CS1.PA;
+17;CST;Lyxor UCITS ETF STOXX Europe 600 Construction & Materials;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;CST.PA;
+18;CU1;Amundi MSCI Uk UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;CU1.PA;
+19;DJE;Lyxor Dow Jones Industrial Average UCITS ETF - Dist;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;DJE.PA;
+20;DSD;LYXOR DAILY SHORTDAX X2 UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;DSD.PA;
+21;ERO;SPDR MSCI Europe UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;ERO.PA;
+22;FIN;Lyxor STOXX Europe 600 Financial Services UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;FIN.PA;
+23;FOO;LYXOR STOXX EUROPE 600 FOOD BEVERAGE UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;FOO.PA;
+24;GRE;Lyxor MSCI Greece UCITS ETF - Dist;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;GRE.PA;
+25;GWT;Lyxor MSCI EMU Growth DR UCITS ETF - Dist;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;GWT.PA;
+26;HLTP;LYXOR STOXX EUROPE 600 HEALTHCARE UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;HLT.PA;
+27;HSI;Lyxor Hong Kong HSI UCITS ETF - Dist;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;HSI.PA;
+28;IND;Lyxor UCITS ETF STOXX Europe 600 Industrial Goods & Services ET;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;IND.PA;
+29;INSP;Lyxor UCITS ETF STOXX Europe 600 Insurance ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;INS.PA;
+30;JPN;Lyxor Japan TOPIX DR UCITS ETF EUR - Dist;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;JPN.PA;
+31;JPNH;Lyxor Japan TOPIX DR Daily Hedged to EUR UCITS ETF - Dist;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;JPNH.PA;
+32;LVC;LYXOR DAILY LEVERAGE CAC 40 UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;LVC.PA;
+33;LVE;Lyxor EURO STOXX 50 Daily Leverage UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;LVE.PA;
+34;MAAP;Lyxor UCITS ETF EuroMTS Highest Rated Macro-Weighted Govt Bond;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;MAA.PA;
+35;MDA;LYXOR STOXX EUROPE 600 MEDIA UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;MDA.PA;
+36;MFE;LYXOR MSCI EMU DR UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;MFE.PA;
+37;MMS.FR;Lyxor MSCI EMU Small Cap DR UCITS ETF - Dist;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;MMS.PA;
+38;MTX1.FR;Lyxor EuroMTS All-Maturity Investment Grade DR UCITS ETF - Acc;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;MTX1.PA;
+39;MWO;Lyxor FTSE EPRA/NAREIT Global Developed UCITS ETF - Dist;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;MWO.PA;
+40;NRJ;Lyxor New Energy UCITS ETF - Dist;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;NRJ.PA;
+41;OIL;LYXOR UCITS ETF STOXX EUROPE 600 OIL &GAS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;OIL.PA;
+42;PAXJ;Lyxor MSCI Pacific Ex Japan UCITS ETF - Dist;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;PAXJ.PA;
+43;PHGP;Lyxor UCITS ETF STOXX Europe 600 Personal & Household Goods ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;PHG.PA;
+44;PVXT;Lyxor Privex UCITS ETF - Dist;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;PVX.PA;
+45;RIO2;Lyxor Brazil Ibovespa UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;RIO2.PA;n
+46;RTA;LYXOR STOXX EUROPE 600 RETAIL UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;RTA.PA;
+47;SELT;Lyxor STOXX Europe Select Dividend 30 UCITS ETF - Dist;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;SEL.PA;
+48;SGQI;Lyxor SG Global Quality Income NTR UCITS ETF - Dist;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;SGQI.PA;
+49;SHC;LYXOR DAILY SHORT CAC 40 UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;SHC.PA;
+50;STZP;SPDR MSCI Europe Financials UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;STZ.PA;
+51;TNO;LYXOR STOXX EUROPE 600 TECHNOLOGY UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;TNO.PA;
+52;TPXH;Amundi Japan Topix Daily Hedged EUR UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;TPXH.PA;
+53;TRVP;LYXOR STOXX EUROPE 600 TRAVEL & LEISURE UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;TRV.PA;
+54;USA;LYXOR MSCI USA UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;USA.PA;
+55;WATP;LYXOR WORLD WATER UCITS ETF;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;WAT.PA;
+56;WLD;Lyxor MSCI World UCITS ETF - Dist;France (Euronext) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;WLD.PA;
+57;DBPD;Xtrackers ShortDAX x2 Daily UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;DBPD.DE;
+58;DBPG;Xtrackers S&P 500 2x Leveraged Daily UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;DBPG.DE;
+59;DBX1;Xtrackers MSCI Emerging Markets Index UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;DBX1.DE;
+60;DBXA;Xtrackers MSCI EUROPE INDEX UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;DBXA.DE;
+61;DBXD;Xtrackers DAX UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;DBXD.DE;
+62;DBXX;Xtrackers FTSE 100 UCITS ETF DR Income ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;DBXX.DE;
+63;DX2G;Xtrackers CAC 40 UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;DX2G.DE;
+64;DX2J;Xtrackers MSCI Europe Small Cap Index UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;DX2J.DE;
+65;DX2Z;Xtrackers S&P Select Frontier UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;DX2Z.DE;
+66;DXET;Xtrackers EURO STOXX 50 UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;DXET.DE;
+67;DXS3;Xtrackers S&P 500 Inverse Daily UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;DXS3.DE;
+68;DXS7;Xtrackers FTSE Vietnam UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;DXS7.DE;
+69;DXSB;Xtrackers STOXX GLOBAL SELECT DIVIDEND 100 UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;DXSB.DE;
+70;DXSC;Xtrackers - STOXX Europe 600 Basic Resources UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;DXSC.DE;
+71;DXSH;Xtrackers - DJ STOXX Europe 600 Technology UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;DXSH.DE;
+72;DXSK;Xtrackers Stoxx Europe 600 Food & Beverage UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;DXSK.DE;
+73;DXSN;Xtrackers ShortDAX Daily UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;DXSN.DE;
+74;DXSP;Xtrackers - EURO STOXX 50 Short Daily UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;DXSP.DE;
+75;EL4A;Deka DAX UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;EL4A.DE;
+76;EL4B;Deka EURO STOXX 50 UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;EL4B.DE;
+77;EUN1;iShares STOXX Europe 50 UCITS EUR Dist ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;EUN1.DE;
+78;EXH1;iShares STOXX Europe 600 Oil & Gas UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;EXH1.DE;
+79;EXH5;iShares STOXX Europe 600 Insurance UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;EXH5.DE;
+80;EXH9;iShares STOXX Europe 600 Utilities UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;EXH9.DE;
+81;EXS1;iShares Core DAX UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;EXS1.DE;
+82;EXS3;iShares MDAX UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;EXS3.DE;
+83;EXSA;iShares STOXX Europe 600 UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;EXSA.DE;
+84;EXSH;iShares STOXX Europe Select Dividend 30 UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;EXSH.DE;
+85;EXV1;iShares STOXX Europe 600 Banks UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;EXV1.DE;
+86;EXV2;iShares STOXX Europe 600 Telecommunications UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;EXV2.DE;
+87;EXV5;iShares STOXX Europe 600 Automobiles & Parts UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;EXV5.DE;
+88;EXV6;iShares STOXX Europe 600 Basic Resources UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;EXV6.DE;
+89;EXV8;iShares STOXX Europe 600 Construction & Materials UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;EXV8.DE;
+90;EXW1;iShares EURO STOXX 50 UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;EXW1.DE;
+91;EXX1;iShares EURO STOXX Banks 30-15 UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;EXX1.DE;
+92;EXXT;iShares NASDAQ-100 UCITS ETF - Dist;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;EXXT.DE;
+93;ISPA;iShares STOXX Global Select Dividend 100 UCITS ETF - Dist;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;ISPA.DE;
+94;LYPS;Lyxor S&P 500 UCITS ETF - Dist;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;LYPS.DE;
+95;LYPU;Lyxor Australia S&P/ASX 200 UCITS ETF - Dist;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;LYPU.DE;
+96;LYY7;Lyxor DAX (DR) UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;LYY7.DE;
+97;LYY8;Lyxor Daily LevDAX UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;LYY8.DE;
+98;SC0D;Invesco EURO STOXX 50 UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;SC0D.DE;
+99;SC0E;Invesco MSCI Europe UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;SC0E.DE;
+100;UEFD;UBS ETF MSCI EMU Small Cap UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;UEFD.DE;
+101;UIM3;UBS ETF FTSE 100 UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;UIM3.DE;
+102;UIM4;UBS ETF MSCI EMU UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;UIM4.DE;
+103;XD5E;Xtrackers MSCI EMU INDEX UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;XD5E.DE;
+104;XDDX;Xtrackers DAX UCITS ETF DR - Income ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;XDDX.DE;
+105;XDUK;Xtrackers FTSE 100 UCITS ETF;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;XDUK.DE;
+106;XDWD;Xtrackers MSCI World UCITS ETF - Acc;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;XDWD.DE;
+107;XDWH;Xtrackers MSCI World Health Care UCITS ETF - Acc;Germany (Xetra) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;XDWH.DE;
+108;AUCO;L&G Gold Mining UCITS ETF;Netherlands (Euronext)ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;AUCO.AS;
+109;IDVY;iShares Euro Dividend UCITS EUR Dist ETF;Netherlands (Euronext)ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;IDVY.AS;
+110;IJPA;iShares Core MSCI Japan IMI UCITS USD Acc ETF;Netherlands (Euronext)ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;IJPA.AS;
+111;IMEU;iShares MSCI Europe UCITS EUR Dist ETF;Netherlands (Euronext)ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;IMEU.AS;
+112;IUSP;iShares US Property Yield UCITS USD Dist ETF;Netherlands (Euronext)ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;IUSP.AS;
+113;VERX;Vanguard FTSE Developed Europe ex UK UCITS ETF;Netherlands (Euronext)ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;VERX.AS;
+114;VEUR;Vanguard FTSE Developed Europe UCITS ETF;Netherlands (Euronext)ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;VEUR.AS;
+115;2INVE;LYXOR IBEX 35 DOBLE INVERSO DIARIO UCITS ETF;Spain (BME) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;2INVE.MC;
+116;IBEXA;LYXOR IBEX 35 DOBLE APALANCADO DIARIO UCITS ETF;Spain (BME) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;IBEXA.MC;
+117;LYXIB;LYXOR IBEX35 DR UCITS ETF;Spain (BME) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;LYXIB.MC;
+118;DNRG;iShares Global Clean Energy UCITS ETF - Dist;Switzerland (SWX) ETF;USD;1;1;10000;100%;10:01 - 18:20 Mon -Fri;DNRG.SW;n
+119;EUDV;SPDR S&P Euro Dividend Aristocrats UCITS ETF;Switzerland (SWX) ETF;CHF;1;1;10000;100%;10:01 - 18:20 Mon -Fri;EUDV.SW;
+120;EXFN;iShares EURO STOXX 50 ex-Financials UCITS EUR Acc ETF;Switzerland (SWX) ETF;CHF;1;1;10000;100%;10:01 - 18:20 Mon -Fri;EXFN.SW;
+121;EXSB;iShares DivDAX UCITS ETF;Switzerland (SWX) ETF;CHF;1;1;10000;100%;10:01 - 18:20 Mon -Fri;EXSB.SW;
+122;GBRE;SPDR Dow Jones Global Real Estate UCITS ETF - Dist;Switzerland (SWX) ETF;CHF;1;1;10000;100%;10:01 - 18:20 Mon -Fri;GBRE.SW;
+123;IAUP;iShares Gold Producers UCITS USD Acc ETF;Switzerland (SWX) ETF;CHF;1;1;10000;100%;10:01 - 18:20 Mon -Fri;IAUP.SW;
+124;IEML;iShares JP Morgan EM Local Government Bond UCITS ETF;Switzerland (SWX) ETF;CHF;1;1;10000;100%;10:01 - 18:20 Mon -Fri;IEML.SW;
+125;IMEA;iShares MSCI Europe UCITS EUR Acc ETF;Switzerland (SWX) ETF;CHF;1;1;10000;100%;10:01 - 18:20 Mon -Fri;IMEA.SW;
+126;ISPY;L&G Cyber Security UCITS ETF - Acc;Switzerland (SWX) ETF;CHF;1;1;10000;100%;10:01 - 18:20 Mon -Fri;ISPY.SW;
+127;ITWN;iShares MSCI Taiwan UCITS USD Dist ETF;Switzerland (SWX) ETF;USD;1;1;10000;100%;10:01 - 18:20 Mon -Fri;ITWN.SW;
+128;MDAXEX;iShares MDAX UCITS ETF;Switzerland (SWX) ETF;CHF;1;1;10000;100%;10:01 - 18:20 Mon -Fri;MDAXEX.SW;
+129;MVEU;iShares Edge MSCI Europe Minimum Volatility UCITS EUR Acc ETF;Switzerland (SWX) ETF;CHF;1;1;10000;100%;10:01 - 18:20 Mon -Fri;MVEU.SW;
+130;SJNK;SPDR Barclays 0-5 Year US High Yield Bond UCITS ETF;Switzerland (SWX) ETF;CHF;1;1;10000;100%;10:01 - 18:20 Mon -Fri;SJNK.SW;
+131;SPLV;iShares Edge S&P 500 Minimum Volatility UCITS USD Acc ETF;Switzerland (SWX) ETF;CHF;1;1;10000;100%;10:01 - 18:20 Mon -Fri;SPLV.SW;
+132;UKEUBH;UBS ETF - MSCI United Kingdom hedged to EUR UCITS ETF;Switzerland (SWX) ETF;EUR;1;1;10000;100%;10:01 - 18:20 Mon -Fri;UKEUBH.SW;n
+133;XFVT;Xtrackers FTSE Vietnam UCITS ETF;Switzerland (SWX) ETF;CHF;1;1;10000;100%;10:01 - 18:20 Mon -Fri;XFVT.SW;
+134;XMCH;Xtrackers MSCI China TRN Index UCITS ETF;Switzerland (SWX) ETF;CHF;1;1;10000;100%;10:01 - 18:20 Mon -Fri;XMCH.SW;
+135;XSMI;Xtrackers Swiss Large Cap UCITS ETF;Switzerland (SWX) ETF;CHF;1;1;10000;100%;10:01 - 18:20 Mon -Fri;XSMI.SW;
+136;AGED;iShares Aging Population UCITS ETF - Acc;UK (LSE) ETF;USD;1;1;10000;100%;10:01 - 18:30 Mon -Fri;AGED.L;
+137;CPJ1;iShares Core MSCI Pacific ex-Japan UCITS ETF - Acc;UK (LSE) ETF;GBX;1;1;10000;100%;10:01 - 18:30 Mon -Fri;CPJ1.L;
+138;CSUKX;iShares FTSE 100 UCITS GBP Acc ETF;UK (LSE) ETF;GBX;1;1;10000;100%;10:01 - 18:30 Mon -Fri;CSUKX.SW;
+139;DRDR;iShares Healthcare Innovation UCITS ETF - Acc;UK (LSE) ETF;GBX;1;1;10000;100%;10:01 - 18:30 Mon -Fri;DRDR.L;
+140;EMBE;iShares J.P. Morgan USD EM Bond EUR Hedged UCITS Dist ETF;UK (LSE) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;EMBE.L;
+141;EMIM;iShares Core MSCI EM IMI UCITS USD Acc ETF;UK (LSE) ETF;GBX;1;1;10000;100%;10:01 - 18:30 Mon -Fri;EMIM.L;
+142;EUE;iShares EURO STOXX 50 UCITS EUR Dist ETF;UK (LSE) ETF;GBX;1;1;10000;100%;10:01 - 18:30 Mon -Fri;EUE.L;
+143;FTAL;SPDR FTSE UK All Share UCITS ETF;UK (LSE) ETF;GBP;1;1;10000;100%;10:01 - 18:30 Mon -Fri;FTAL.L;
+144;GXLC;SPDR S&P U.S.Communication Serv.SelectSectorUCITS ETF - Acc;UK (LSE) ETF;GBP;1;1;10000;100%;10:01 - 18:30 Mon -Fri;GXLC.L;
+145;HMWO;HSBC MSCI WORLD UCITS ETF;UK (LSE) ETF;GBX;1;1;10000;100%;10:01 - 18:30 Mon -Fri;HMWO.L;
+146;HUKX;HSBC FTSE 100 UCITS ETF;UK (LSE) ETF;GBX;1;1;10000;100%;10:01 - 18:30 Mon -Fri;HUKX.L;
+147;IE15;iShares EUR Corp Bond 1-5yr UCITS EUR Dist ETF;UK (LSE) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;IE15.L;
+148;IEMB;iShares J.P. Morgan USD EM Bond UCITS ETF;UK (LSE) ETF;USD;1;1;10000;100%;10:01 - 18:30 Mon -Fri;IEMB.L;
+149;IGSG;iShares Dow Jones Global Sustainability Screened UCITS ETF - Ac;UK (LSE) ETF;GBX;1;1;10000;100%;10:01 - 18:30 Mon -Fri;IGSG.L;
+150;IHYU;iShares USD High Yield Corp Bond UCITS ETF;UK (LSE) ETF;USD;1;1;10000;100%;10:01 - 18:30 Mon -Fri;IHYU.L;
+151;IJPE;iShares MSCI Japan EUR Hedged UCITS Acc ETF;UK (LSE) ETF;EUR;1;1;10000;100%;10:01 - 18:30 Mon -Fri;IJPE.L;
+152;INFR;iShares Global Infrastructure UCITS ETF - Dist;UK (LSE) ETF;GBX;1;1;10000;100%;10:01 - 18:30 Mon -Fri;INFR.L;
+153;IOGP;iShares Oil & Gas Exploration & Production UCITS USD Acc ETF;UK (LSE) ETF;USD;1;1;10000;100%;10:01 - 18:30 Mon -Fri;IOGP.L;
+154;ISF;iShares Core FTSE 100 UCITS ETF;UK (LSE) ETF;GBX;1;1;10000;100%;10:01 - 18:30 Mon -Fri;ISF.L;
+155;IUAG;iShares US Aggregate Bond UCITS ETF;UK (LSE) ETF;USD;1;1;10000;100%;10:01 - 18:30 Mon -Fri;IUAG.L;
+156;IUKP;iShares UK Property UCITS GBP Dist ETF;UK (LSE) ETF;GBX;1;1;10000;100%;10:01 - 18:30 Mon -Fri;IUKP.L;
+157;IUSA;iShares S&P 500 UCITS USD Dist ETF;UK (LSE) ETF;GBX;1;1;10000;100%;10:01 - 18:30 Mon -Fri;IUSA.L;
+158;IWDAU;iShares Core MSCI World UCITS (USD) ETF;UK (LSE) ETF;USD;1;1;10000;100%;10:01 - 18:30 Mon -Fri;IWDA.L;
+159;IWDP;iShares Developed Markets Property Yield UCITS USD Dist ETF;UK (LSE) ETF;GBX;1;1;10000;100%;10:01 - 18:30 Mon -Fri;IWDP.L;
+160;L100;LYXOR FTSE 100 UCITS ETF;UK (LSE) ETF;GBX;1;1;10000;100%;10:01 - 18:30 Mon -Fri;L100.L;
+161;LQDA;iShares USD Corp Bond UCITS ETF - Acc;UK (LSE) ETF;USD;1;1;10000;100%;10:01 - 18:30 Mon -Fri;LQDA.L;
+162;LQDE;iShares USD Corp Bond UCITS ETF;UK (LSE) ETF;USD;1;1;10000;100%;10:01 - 18:30 Mon -Fri;LQDE.L;
+163;MIDDL;iShares FTSE 250 UCITS GBP Dist ETF;UK (LSE) ETF;GBX;1;1;10000;100%;10:01 - 18:30 Mon -Fri;MIDD.L;
+164;RBOT;iShares Automation & Robotics UCITS ETF - Acc;UK (LSE) ETF;USD;1;1;10000;100%;10:01 - 18:30 Mon -Fri;RBOT.L;
+165;SEML;iShares JP Morgan EM Local Government Bond UCITS ETF;UK (LSE) ETF;GBP;1;1;10000;100%;10:01 - 18:30 Mon -Fri;SEML.L;
+166;SJPA;iShares Core MSCI Japan IMI UCITS USD Acc ETF;UK (LSE) ETF;GBX;1;1;10000;100%;10:01 - 18:30 Mon -Fri;SJPA.L;
+167;SLXX;iShares Core Corp Bond UCITS GBP Dist ETF;UK (LSE) ETF;GBP;1;1;10000;100%;10:01 - 18:30 Mon -Fri;SLXX.L;
+168;SPXSL;Invesco S&P 500 UCITS ETF;UK (LSE) ETF;USD;1;1;10000;100%;10:01 - 18:30 Mon -Fri;SPXS.L;
+169;SWDA;iShares Core MSCI World UCITS ETF;UK (LSE) ETF;GBX;1;1;10000;100%;10:01 - 18:30 Mon -Fri;SWDA.L;
+170;UKDV;SPDR S&P UK Dividend Aristocrats UCITS ETF;UK (LSE) ETF;GBP;1;1;10000;100%;10:01 - 18:30 Mon -Fri;UKDV.L;
+171;VMID;Vanguard FTSE 250 UCITS ETF;UK (LSE) ETF;GBP;1;1;10000;100%;10:01 - 18:30 Mon -Fri;VMID.L;
+172;VUKE;Vanguard FTSE 100 UCITS ETF;UK (LSE) ETF;GBP;1;1;10000;100%;10:01 - 18:30 Mon -Fri;VUKE.L;
+173;VUSA;Vanguard S&P 500 UCITS ETF;UK (LSE) ETF;GBP;1;1;10000;100%;10:01 - 18:30 Mon -Fri;VUSA.L;
+174;XDER;Xtrackers FTSE EPRA-NAREIT Develop Europe Real Estate UCITS ETF;UK (LSE) ETF;GBX;1;1;10000;100%;10:01 - 18:30 Mon -Fri;XDER.L;
+175;XESC;Xtrackers EURO STOXX 50 UCITS ETF;UK (LSE) ETF;GBX;1;1;10000;100%;10:01 - 18:30 Mon -Fri;XESC.L;
+176;XESX;Xtrackers EURO STOXX 50 UCITS ETF;UK (LSE) ETF;GBX;1;1;10000;100%;10:01 - 18:30 Mon -Fri;XESX.L;
+177;XMEM;Xtrackers MSCI Emerging Markets Index UCITS ETF;UK (LSE) ETF;GBX;1;1;10000;100%;10:01 - 18:30 Mon -Fri;XMEM.L;
+178;XMWD;Xtrackers MSCI World Index UCITS ETF;UK (LSE) ETF;USD;1;1;10000;100%;10:01 - 18:30 Mon -Fri;XMWD.l;
+179;XS2D;Xtrackers S&P 500 2x Leveraged Daily UCITS ETF;UK (LSE) ETF;USD;1;1;10000;100%;10:01 - 18:30 Mon -Fri;XS2D.L;
+180;XSPD;Xtrackers S&P 500 Inverse Daily UCITS ETF;UK (LSE) ETF;USD;1;1;10000;100%;10:01 - 18:30 Mon -Fri;XSPD.L;
+181;XSPU;Xtrackers S&P 500 UCITS ETF;UK (LSE) ETF;USD;1;1;10000;100%;10:01 - 18:30 Mon -Fri;XSPU.L;
+182;XSSX;Xtrackers - EURO STOXX 50 Short Daily UCITS ETF;UK (LSE) ETF;GBX;1;1;10000;100%;10:01 - 18:30 Mon -Fri;XSSX.L;
+183;XSX6;Xtrackers Stoxx Europe 600 UCITS ETF;UK (LSE) ETF;GBX;1;1;10000;100%;10:01 - 18:30 Mon -Fri;XSX6.L;
+184;XUKS;Xtrackers FTSE 100 Short Daily UCITS ETF;UK (LSE) ETF;GBX;1;1;10000;100%;10:01 - 18:30 Mon -Fri;XUKS.L;
+185;XUKX;Xtrackers FTSE 100 UCITS DR Income ETF;UK (LSE) ETF;GBX;1;1;10000;100%;10:01 - 18:30 Mon -Fri;XUKX.L;
