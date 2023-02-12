@@ -27,8 +27,10 @@ print('--------------')
 # get data on MetaTrade
 
 # login to my account and print account info
-account=40902528
-authorized=mt5.login(account, password="W3r8jWCI92jo")
+account=1111
+server = 'AdmiralMarkets-Live'
+password = 'password'
+authorized=mt5.login(login = account,server = server, password=password)
 if authorized:
 	# display trading account data in the form of a list
 	print("Show account_info()._asdict():")
